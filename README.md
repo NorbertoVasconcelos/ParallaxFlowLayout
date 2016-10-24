@@ -1,5 +1,6 @@
 # ParallaxFlowLayout
 UICollectionViewFlowLayout that provides a Parallax effect.
+Written in Swift 3.0.
 
 # Code Example
 
